@@ -2,6 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/mia/Documents/GitHub/AttendanceListP/AttendanceListP-war/web/home.xhtml</file>
+            <file>file:/C:/Users/mia/Documents/GitHub/AttendanceListP/AttendanceListP-war/src/java/com/attendancelist/login/DataQuery.java</file>
+            <file>file:/C:/Users/mia/Documents/GitHub/AttendanceListP/AttendanceListP-war/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/mia/Documents/GitHub/AttendanceListP/AttendanceListP-war/web/login.xhtml</file>
+            <file>file:/C:/Users/mia/Documents/GitHub/AttendanceListP/AttendanceListP-war/src/java/com/attendancelist/login/Login.java</file>
+            <file>file:/C:/Users/mia/Documents/GitHub/AttendanceListP/AttendanceListP-war/src/java/com/attendancelist/login/LoginController.java</file>
+        </group>
     </open-files>
 </project-private>
