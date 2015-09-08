@@ -2,3 +2,5 @@
 /AttendanceListP-ejb/dist/
 /AttendanceListP-ejb/build/
 /AttendanceListP-war/dist/
+/dist/
+/build/
